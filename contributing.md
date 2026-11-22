@@ -184,4 +184,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*EA SPORTS FC 26 · Updated 2026-11-21 · Shared under the MIT License*
+*EA SPORTS FC 26 · Updated 2026-11-22 · Shared under the MIT License*
